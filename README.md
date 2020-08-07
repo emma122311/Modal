@@ -1,5 +1,4 @@
 # Sweetalert
-## 點下去用 Modal 用Sweetalert 去做
 ### 1.在所需 Case中 帶入 sweetalert.min.js 
 ### 2.把如下 function 程式複製貼上 
 ```
