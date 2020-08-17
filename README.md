@@ -1,4 +1,4 @@
-# Sweetalert
+# 1. Sweetalert
 ### 1.在所需 Case中 帶入 sweetalert.min.js 
 ### 2. 把如下的 css 與 js 複製貼上在HTML中
       // <link rel="stylesheet" type="text/css" href="dist/sweetalert.css">  
@@ -36,7 +36,7 @@
  
  // 參考網頁鑫宇科技中的團隊投資
  
-# 在 Modal中 調整顯示畫面
+# 2. 在 Modal中 調整顯示畫面
 ```
  .modal-dialog {
             position: relative;
