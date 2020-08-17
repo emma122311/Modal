@@ -31,7 +31,20 @@
                 });
         }
 ```
-### 3.把 onclick="alertup() 放入所需處
+### 4.把 onclick="alertup() 放入所需處
  // 參考 sweetalert 詳情網址 http://mishengqiang.com/sweetalert/
  
  // 參考網頁鑫宇科技中的團隊投資
+ 
+# 在 Modal中 調整顯示畫面
+```
+ .modal-dialog {
+            position: relative;
+            width: auto;
+            margin: 0.5rem;
+            pointer-events: none;
+            max-width: 65%;
+            margin: 1.75rem auto;
+    } 
+    //  max-width: 65%; 調整顯示畫面大小
+```
