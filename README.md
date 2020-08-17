@@ -1,6 +1,9 @@
 # Sweetalert
 ### 1.在所需 Case中 帶入 sweetalert.min.js 
-### 2.把如下 function 程式複製貼上 
+### 2. 把如下的 css 與 js 複製貼上在HTML中
+      // <link rel="stylesheet" type="text/css" href="dist/sweetalert.css">  
+      // <script src="/assets2/js/sweetalert.min.js"></script>
+### 3.把如下 function 程式複製貼上 
 ```
       function alertup() {
             swal("你確定要刪除資料嗎?", {
